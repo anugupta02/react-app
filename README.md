@@ -1,4 +1,4 @@
-# React-JS App By ANU GUPTA 🙂
+# React-JS💙 App By ANU GUPTA 🙂
 
 #### Tech stack: React-JS (create-react-app), Javascript Functional programming, HTML, CSS, jest-enzyme
 
