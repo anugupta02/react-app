@@ -5,8 +5,6 @@ import './App.css';
 import Modal from 'react-modal';
 import Tippy from '@tippy.js/react'
 import 'tippy.js/dist/tippy.css'
-import CountUp , {useCountUp} from 'react-countup'
-import IdleTimerContainer from './IdleTimerContainer';
 import {ChromePicker} from 'react-color'
 import Cards from 'react-credit-cards'
 import 'react-credit-cards/es/styles-compiled.css'
